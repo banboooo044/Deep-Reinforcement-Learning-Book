@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/take/.pyenv/versions/anaconda3-4.4.0/envs/rl/bin/python",
+    "python.formatting.provider": "autopep8"
+}
